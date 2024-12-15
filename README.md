@@ -34,3 +34,11 @@ Before running the notebook, ensure you have the following installed:
 - The following Python libraries:  
   ```bash
   pip install pandas requests numpy matplotlib zipfile
+
+## 🤝 Contributions
+
+Contributions are welcome! Please open an issue or send a pull request.
+
+## 📣 Contact
+ - Author: Frederick Salazar.
+ - email: <fsalazars@uoc.edu>
